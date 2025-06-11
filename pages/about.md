@@ -26,7 +26,7 @@ title: 关于我
 
 ## 爱好
 
-[中大型犬](https://www.dogsindepth.com) 🐕、[篮球](https://en.wikipedia.org/wiki/2019_NBA_Finals) 🏀 
+喜欢[中大型犬](https://www.dogsindepth.com) 🐕、关注[篮球](https://en.wikipedia.org/wiki/2019_NBA_Finals) 🏀 
 
 热爱技术之外，也热衷与人交流想法，欢迎[来信](yangzy723@gmail.com)交流。
 
