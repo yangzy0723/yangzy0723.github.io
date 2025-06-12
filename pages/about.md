@@ -3,7 +3,7 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问我的博客！
+> 你好！过路人，欢迎访问我的博客！
 
 <img src="/static/img/logo.jpg" alt="avatar" width="180" style="border-radius: 50%; margin-top: 10px;">
 
