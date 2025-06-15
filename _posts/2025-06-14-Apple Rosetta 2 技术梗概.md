@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Apple Rosetta 2 技术梗概
-categories: [杂项]
+categories: [macOS]
 ---
 
 ## 背景介绍
