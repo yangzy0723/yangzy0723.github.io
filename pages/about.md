@@ -50,7 +50,7 @@ title: 关于我
 - QQ: 1813083415
 - Email: [yangzy723@gmail.com](mailto:yangzy723@gmail.com)  
 - GitHub: [https://github.com/yangzy723](https://github.com/yangzy723)
-- ORCID: <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0008-3110-8715" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> https://orcid.org/0009-0008-3110-8715 </a>
+- ORCID: <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0008-3110-8715" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: middle; margin-left: 0.5em; white-space: nowrap;"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; vertical-align: middle; margin-right: 0.3em;" alt="ORCID iD icon"/> https://orcid.org/0009-0008-3110-8715 </a>
 - 地址: 北京市海淀区中关村街道南四街4号
 
 ---
