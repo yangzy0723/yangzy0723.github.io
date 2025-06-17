@@ -52,7 +52,6 @@ title: 关于我
 - GitHub: [https://github.com/yangzy723](https://github.com/yangzy723)
 - 地址: 北京市海淀区中关村街道南四街4号
 
-
 <a 
     href="https://orcid.org/0009-0008-3110-8715" 
     target="_blank" 
@@ -61,7 +60,5 @@ title: 关于我
     alt="ORCID iD"
     style="vertical-align:middle; margin-right:4px;" />
 </a>  
-
 ---
-
 本博客托管于 GitHub Pages，国内解析到腾讯云对象存储，以保证国内外的访问速度。
