@@ -57,7 +57,8 @@ title: 关于我
     target="_blank" 
     rel="noopener">
     <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    alt="ORCID iD"/>
+    alt="ORCID iD"
+    style="vertical-align:middle" />
 </a>  
 ---
 本博客托管于 GitHub Pages，国内解析到腾讯云对象存储，以保证国内外的访问速度。
