@@ -41,7 +41,7 @@ title: 关于我
 ## 代表作品
 
 基于 Libgdx 游戏框架与 Netty 网络通信框架开发的仿《元气骑士》Roguelike 游戏  
-👉 [SoulKnight](https://github.com/Yangzy0723/SoulKnight)
+👉 [SoulKnight](https://github.com/yangzy723/SoulKnight)
 
 如有~~远程~~实习的机会欢迎联系我 🫵
 
@@ -49,7 +49,7 @@ title: 关于我
 
 - QQ: 1813083415
 - Email: [yangzy723@gmail.com](mailto:yangzy723@gmail.com)  
-- GitHub: [https://github.com/yangzy0723](https://github.com/yangzy0723)
+- GitHub: [https://github.com/yangzy723](https://github.com/yangzy723)
 - 地址: 北京市海淀区中关村街道南四街4号
 
 ---

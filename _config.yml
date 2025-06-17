@@ -1,7 +1,7 @@
 encoding: utf-8
 
 # SEO相关信息
-title: yangzy Blog
+title: yangzy's Blog
 description: 杨镇源的个人博客
 keywords: 个人博客，知识图谱，经验记录
 author: 杨镇源
@@ -16,7 +16,7 @@ exclude: ['README.md', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'blog.sh']
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://yangzy0723.github.io'
+domainUrl: 'https://yangzy723.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
