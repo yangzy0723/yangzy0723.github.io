@@ -51,14 +51,13 @@ title: 关于我
 - Email: [yangzy723@gmail.com](mailto:yangzy723@gmail.com)  
 - GitHub: [https://github.com/yangzy723](https://github.com/yangzy723)
 - 地址: 北京市海淀区中关村街道南四街4号
-<p align="right">
+ <a href="https://orcid.org/0009-0008-3110-8715" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    alt="ORCID iD"
-    style="cursor: pointer;"
-    onclick="window.open('https://orcid.org/0009-0008-3110-8715', '_blank')"
+      src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+      alt="ORCID iD"
+      style="cursor: pointer; border: 0;"
   />
-</p>
+</a>
 
 ---
 
